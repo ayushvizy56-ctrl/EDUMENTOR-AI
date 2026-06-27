@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+config/.env
+data/raw/
+data/processed/
+data/embeddings/
+modules/knowledge_profiling/models/
+.DS_Store
