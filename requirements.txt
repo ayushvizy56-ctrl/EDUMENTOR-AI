@@ -8,7 +8,6 @@ joblib
 matplotlib
 seaborn
 python-dotenv
-tensorflow
 opencv-python-headless
 deepface
 tf-keras
